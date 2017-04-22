@@ -1,4 +1,7 @@
-# api documentation for  [es6-map (v0.1.5)](https://github.com/medikoo/es6-map#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-es6-map.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-es6-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-es6-map.svg)](https://travis-ci.org/npmdoc/node-npmdoc-es6-map)
+# npmdoc-es6-map
+
+#### api documentation for  [es6-map (v0.1.5)](https://github.com/medikoo/es6-map#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-es6-map.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-es6-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-es6-map.svg)](https://travis-ci.org/npmdoc/node-npmdoc-es6-map)
+
 #### ECMAScript6 Map polyfill
 
 [![NPM](https://nodei.co/npm/es6-map.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/es6-map)
@@ -75,7 +78,8 @@
         "lint-console": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --watch",
         "test": "node ./node_modules/tad/bin/tad"
     },
-    "version": "0.1.5"
+    "version": "0.1.5",
+    "bin": {}
 }
 ```
 
